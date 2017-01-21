@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/activity_main"
     android:layout_width="match_parent"
@@ -10,8 +11,39 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="lsdoza.lab1.MainActivity">
 
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        app:srcCompat="@drawable/lydia"
+        android:id="@+id/imgLydia"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:text="@string/txtName"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/imgLydia"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/txtName" />
+
+    <TextView
+        android:text="@string/txtMajor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtMajor"
+        android:layout_below="@+id/txtName"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp" />
+
+    <TextView
+        android:text="@string/txtHobbies"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtMajor"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="41dp"
+        android:id="@+id/txtHobbies" />
+
 </RelativeLayout>
