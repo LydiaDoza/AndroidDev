@@ -2,5 +2,9 @@
     <string name="app_name">Lab1</string>
     <string name="txtName">Lydia Doza</string>
     <string name="txtMajor">Software Engineering</string>
-    <string name="txtHobbies">Playing video games\nWatching streamers\nHiking\nCamping\nTeaching Software to K-12 Students</string>
+    <string name="txtHobbies">Playing video games
+        \nWatching streamers
+        \nHiking
+        \nCamping
+        \nTeaching Software to K-12 Students</string>
 </resources>
