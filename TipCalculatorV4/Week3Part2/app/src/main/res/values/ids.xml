@@ -4,5 +4,5 @@
     <item type="id" name="card2"/>
     <item type="id" name="card3"/>
     <item type="id" name="total"/>
-    <item tyep="id" name="drawButton"/>
+    <item type="id" name="drawButton"/>
 </resources>

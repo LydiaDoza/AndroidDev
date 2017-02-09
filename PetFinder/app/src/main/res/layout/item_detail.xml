@@ -1,0 +1,18 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+          xmlns:tools="http://schemas.android.com/tools"
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:orientation="vertical"
+          android:textIsSelectable="true"
+          tools:context="lsdoza.petfinder.ItemDetailFragment"
+          android:gravity="center_horizontal">
+<!--Put app info here-->
+    <!--Consider this the "Home/About page"-->
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/item_detail"/>
+
+</LinearLayout>
