@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pet Finder</string>
+    <string name="txtName">Name</string>
+    <string name="txtEmail">Email Address</string>
+    <string name="txtPhone">Phone number</string>
+    <string name="txtDate">Date</string>
+    <string name="txtTime">Time</string>
+    <string name="txtComments">Comments or Questions</string>
+</resources>

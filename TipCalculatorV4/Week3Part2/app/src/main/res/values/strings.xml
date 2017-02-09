@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Week3Part2</string>
+    <string name="textDrawButton">Draw</string>
+    <string name="labelCard1">Card 1</string>
+    <string name="labelCard2">Card 2</string>
+    <string name="labelCard3">Card 3</string>
+    <string name="textTotal">Total</string>
+</resources>

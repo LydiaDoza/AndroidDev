@@ -8,4 +8,7 @@
   <color name="lightGreen">#40F0</color>
   <color name="darkGreen">#F0F0</color>
   <color name="darkBlue">#F00F</color>
+
+  <color name="colorCutePink">#F06292</color>
+  <color name="colorCutePurple">#6A1B9A</color>
 </resources>

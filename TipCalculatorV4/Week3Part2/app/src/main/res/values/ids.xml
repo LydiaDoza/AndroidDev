@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="card1"/>
+    <item type="id" name="card2"/>
+    <item type="id" name="card3"/>
+    <item type="id" name="total"/>
+    <item tyep="id" name="drawButton"/>
+</resources>
