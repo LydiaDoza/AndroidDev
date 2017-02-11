@@ -6,6 +6,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
+import lsdoza.petfinder.R;
 import lsdoza.petfinder.dummy.ItemFragment.OnListFragmentInteractionListener;
 import lsdoza.petfinder.dummy.dummy.DummyContent.DummyItem;
 

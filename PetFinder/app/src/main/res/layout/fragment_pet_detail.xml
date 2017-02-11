@@ -5,7 +5,7 @@
              android:layout_width="match_parent"
              android:layout_height="match_parent"
               android:orientation="vertical"
-             tools:context="lsdoza.petfinder.dummy.PetDetailFragment"
+             tools:context="lsdoza.petfinder.PetDetailFragment"
             android:gravity="center_horizontal">
 
     <!-- TODO: Update blank fragment layout -->

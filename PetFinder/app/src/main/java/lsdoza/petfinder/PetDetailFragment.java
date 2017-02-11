@@ -1,4 +1,4 @@
-package lsdoza.petfinder.dummy;
+package lsdoza.petfinder;
 
 
 import android.os.Bundle;
